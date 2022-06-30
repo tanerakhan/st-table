@@ -1,0 +1,17 @@
+{
+    "heading": ["id", "name", "color", "category", "price", "actions"],
+    "body": {
+        "name": {
+            "key": "apple",
+            "value": "Apple"
+        },
+        "color": {
+            "key": "red",
+            "value": "Red"
+        },
+        "category": {
+            "key": "laptop",
+            "value": "Laptop"
+        }
+    }
+}
